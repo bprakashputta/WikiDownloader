@@ -19,4 +19,4 @@
 
 ### Note 
 I have used IntelliJ IDEA IDE to do the code, I have created a maven project and added the 
-maven dependencies as required. Would suggest you to please use IntelliJ incase you want to test the code.\
+maven dependencies as required. Would suggest you to please use IntelliJ incase you want to test the code.
